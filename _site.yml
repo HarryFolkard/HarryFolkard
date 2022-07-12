@@ -1,0 +1,11 @@
+name: "my-website"
+navbar:
+  title: "Harry Folkard"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+    - text: "Documents"
+      href: documents.html
+
